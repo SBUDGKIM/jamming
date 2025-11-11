@@ -1,0 +1,8 @@
+{
+  "samp_rate": 5000000.0,
+  "noise_amplitude": 0.1,
+  "center_freq": 1874200000.0,
+  "num_samples": 10000000,
+  "duration": 2.0,
+  "noise_type": "GR_GAUSSIAN"
+}
